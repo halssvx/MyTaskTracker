@@ -1,0 +1,13 @@
+body {
+  font-family: sans-serif;
+  padding: 20px;
+}
+form {
+  margin-bottom: 20px;
+}
+li {
+  margin: 5px 0;
+}
+button {
+  margin-left: 10px;
+}
